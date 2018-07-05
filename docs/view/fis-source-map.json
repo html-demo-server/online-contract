@@ -1,5 +1,58 @@
 {
     "res": {
+        "docs/docs/m/base/rem/meta.js": {
+            "uri": "/docs/docs/m/base/rem/meta.js",
+            "type": "js"
+        },
+        "docs/m/base/rem/meta.js": {
+            "uri": "/docs/m/base/rem/meta.js",
+            "type": "js"
+        },
+        "docs/view/common/entry.js": {
+            "uri": "/docs/view/common/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "docs/view/common/index.css": {
+            "uri": "/docs/view/common/index.css",
+            "type": "css"
+        },
+        "docs/view/common/normalize.css": {
+            "uri": "/docs/view/common/normalize.css",
+            "type": "css"
+        },
+        "docs/view/example/entry.js": {
+            "uri": "/docs/view/example/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "docs/view/example/index.css": {
+            "uri": "/docs/view/example/index.css",
+            "type": "css"
+        },
+        "docs/view/example/react/entry.js": {
+            "uri": "/docs/view/example/react/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "docs/view/example/react/index-m.css": {
+            "uri": "/docs/view/example/react/index-m.css",
+            "type": "css"
+        },
+        "docs/view/example/vue/entry.js": {
+            "uri": "/docs/view/example/vue/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "docs/view/index/entry.js": {
+            "uri": "/docs/view/index/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "docs/view/index/index.css": {
+            "uri": "/docs/view/index/index.css",
+            "type": "css"
+        },
         "m/base/rem/meta.js": {
             "uri": "/m/base/rem/meta.js",
             "type": "js"

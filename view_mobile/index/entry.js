@@ -59,4 +59,8 @@ $(function () {
             height
         )
     }
+    $('#reset').on('click', function () {
+        context.clearRect(0, 0, 9999,9999)
+        drawCompact()
+    })
 })

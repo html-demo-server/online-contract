@@ -10497,6 +10497,10 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
         var height = width * scale;
         context.drawImage((0, _jquery2.default)('#draw').get(0), (0, _jquery2.default)('#contract').width() - width, (0, _jquery2.default)('#contract').height() - height - 50, width, height);
     }
+    (0, _jquery2.default)('#reset').on('click', function () {
+        context.clearRect(0, 0, 9999, 9999);
+        drawCompact();
+    });
 });
 
 /***/ }),
