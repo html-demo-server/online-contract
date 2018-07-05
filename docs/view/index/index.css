@@ -1,0 +1,8 @@
+.wrap {
+  border: 4px dotted #eee;
+  height: 500px;
+}
+.photo {
+  position: absolute;
+  left: -9999em;
+}

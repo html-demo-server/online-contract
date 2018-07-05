@@ -1,0 +1,58 @@
+{
+    "res": {
+        "docs/m/base/rem/meta.js": {
+            "uri": "/docs/m/base/rem/meta.js",
+            "type": "js"
+        },
+        "m/base/rem/meta.js": {
+            "uri": "/m/base/rem/meta.js",
+            "type": "js"
+        },
+        "view_mobile/common/entry.js": {
+            "uri": "/view_mobile/common/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "view_mobile/common/index.css": {
+            "uri": "/view_mobile/common/index.css",
+            "type": "css"
+        },
+        "view_mobile/common/normalize.css": {
+            "uri": "/view_mobile/common/normalize.css",
+            "type": "css"
+        },
+        "view_mobile/example/entry.js": {
+            "uri": "/view_mobile/example/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "view_mobile/example/index.css": {
+            "uri": "/view_mobile/example/index.css",
+            "type": "css"
+        },
+        "view_mobile/example/react/entry.js": {
+            "uri": "/view_mobile/example/react/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "view_mobile/example/react/index-m.css": {
+            "uri": "/view_mobile/example/react/index-m.css",
+            "type": "css"
+        },
+        "view_mobile/example/vue/entry.js": {
+            "uri": "/view_mobile/example/vue/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "view_mobile/index/entry.js": {
+            "uri": "/view_mobile/index/entry.js",
+            "type": "js",
+            "extras": {}
+        },
+        "view_mobile/index/index.css": {
+            "uri": "/view_mobile/index/index.css",
+            "type": "css"
+        }
+    },
+    "pkg": {}
+}

@@ -18,7 +18,7 @@ module.exports = {
 			noHashFile: [
 				'**.html'
 			],
-			relative: false,
+			relative: true,
 			compress:false,
 			externals: {
 			   'jquery': 'jQuery',
@@ -35,7 +35,7 @@ module.exports = {
 			noHashFile: [
 				'**.html'
 			],
-			relative: false,
+			relative: true,
 			compress:false,
 			externals: {
 			   'jquery': 'jQuery',
